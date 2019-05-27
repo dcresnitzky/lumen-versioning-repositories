@@ -1,5 +1,4 @@
-
-#Como rodar
+## Rodar
 
 Executar o comando:
 
